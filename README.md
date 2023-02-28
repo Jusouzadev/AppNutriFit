@@ -1,5 +1,5 @@
 # APPNUTRIFIT
-API da aplicação de treino e dieta.
+API da aplicação de treino e dieta no aplicativo.
 
 ## Endpoints
 
