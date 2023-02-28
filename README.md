@@ -1,5 +1,5 @@
 # APPNUTRIFIT
-API da aplicação de controle de gastos pessoais.
+API da aplicação de treino e dieta.
 
 ## Endpoints
 
